@@ -1,0 +1,25 @@
+{
+  "name": "online-shopping-cart",
+  "version": "1.0.0",
+  "description": "Online shopping cart allows you to shop online and then make payment at a later date",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enaburekhan/online-shopping-cart.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enaburekhan/online-shopping-cart/issues"
+  },
+  "homepage": "https://github.com/enaburekhan/online-shopping-cart#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.12"
+  }
+}
